@@ -1,3 +1,9 @@
-div {
-    background-color: red;
+ul {
+    list-style: none;
+}
+ul li {
+    margin-bottom: 1rem;
+}
+.oi {
+    margin-right: 0.4rem;
 }
