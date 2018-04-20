@@ -7,3 +7,25 @@ ul li {
 .oi {
     margin-right: 0.4rem;
 }
+@media (max-width: 767.98px) { 
+    body.bg-light {
+        background-color: #fff!important
+    }
+ }
+ @media print {
+     a:not(.btn) {
+         text-decoration: none;
+     }
+     .nav {
+         display: none;
+    }
+     .container {
+         margin-top: 2rem;
+     }
+     body {
+        background-color: #f8f9fa!important;
+     }
+     .personal-info {
+        background-color: #f8f9fa!important;
+     }
+}
