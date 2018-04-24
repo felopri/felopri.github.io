@@ -1,11 +1,11 @@
 ul {
     list-style: none;
 }
-ul.no-space{
-    padding-left: 0px;
-}
 ul.min-space{
     padding-left: 20px;
+}
+ul.strech li {
+    margin-bottom: 0.4rem;
 }
 ul li {
     margin-bottom: 1rem;
