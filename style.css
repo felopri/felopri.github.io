@@ -4,6 +4,9 @@ ul {
 ul.no-space{
     padding-left: 0px;
 }
+ul.min-space{
+    padding-left: 20px;
+}
 ul li {
     margin-bottom: 1rem;
 }
