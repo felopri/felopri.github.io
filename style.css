@@ -28,7 +28,7 @@ ul li img {
      a:not(.btn) {
          text-decoration: none;
      }
-     .nav {
+     .print-hidden {
          display: none;
     }
      .container {
