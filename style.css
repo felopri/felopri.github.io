@@ -36,8 +36,10 @@ ul li img {
      }
      body {
         background-color: #f8f9fa!important;
+        -webkit-print-color-adjust: exact; 
      }
      .personal-info {
         background-color: #f8f9fa!important;
+        -webkit-print-color-adjust: exact; 
      }
 }
