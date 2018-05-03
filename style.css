@@ -19,11 +19,9 @@ ul li img {
 .nav-link {
     font-size: 12px; 
 }
-@media (max-width: 767.98px) { 
-    body.bg-light {
-        background-color: #fff!important
-    }
- }
+body {
+    margin-bottom: 2rem;
+}
  @media print {
      a:not(.btn) {
          text-decoration: none;
@@ -34,12 +32,10 @@ ul li img {
      .container {
          margin-top: 2rem;
      }
-     body {
-        background-color: #f8f9fa!important;
+     .bg-light {
         -webkit-print-color-adjust: exact; 
      }
-     .personal-info {
-        background-color: #f8f9fa!important;
-        -webkit-print-color-adjust: exact; 
+     .mb-4 {
+         margin-bottom: 1rem!important;
      }
 }
