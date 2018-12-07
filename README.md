@@ -1,5 +1,3 @@
-# felopri.github.io
-
 # Resume for Fernando López Prieto
 
 ## Scrum Master and Front-end engineer
